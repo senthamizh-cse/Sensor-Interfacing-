@@ -78,7 +78,8 @@ Serial.println(" cm"); delay(500);
 ![image](https://user-images.githubusercontent.com/113031811/235738895-ab56968d-4b86-4422-9760-24743c0f319a.png)
 
 ## OUTPUT:
-![image](https://user-images.githubusercontent.com/113031811/235739531-8dc3f1e0-e726-44fd-9886-68d75cada8b4.png)
+![image](https://github.com/senthamizh-cse/Sensor-Interfacing-/assets/113031811/f2771398-7637-48bd-b99d-1766155cb802)
+
 
 ## RESULT:
 Thus the distance of the obstacle is measured using ultrasonic sensor and display the value in serial monitor using Arduino UNO controller.
